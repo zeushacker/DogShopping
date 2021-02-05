@@ -148,12 +148,4 @@ public class DogDAO {
 
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
 }

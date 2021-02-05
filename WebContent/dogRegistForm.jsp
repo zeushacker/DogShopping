@@ -15,7 +15,7 @@
  margin: auto
 }
 
-h2 {
+h2{
    text-align: center;
 }
 
